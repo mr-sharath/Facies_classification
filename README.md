@@ -7,7 +7,7 @@ This project demonstrates the application of machine learning techniques to pred
 Facies classification is crucial for understanding reservoir properties and enhancing hydrocarbon exploration and production. The dataset for this project is based on contributions from Bohling and Dubois (2003) and Dubois et al. (2007). We employ machine learning models, specifically Support Vector Machines (SVM) and Random Forests, to automate the classification of facies from well log data.
 
 ## Repository Contents
-- `notaries_data.csv` - The dataset containing well log measurements and facies labels.
+- `nofacies_data.csv` - The dataset containing well log measurements and facies labels.
 - `facies_classification.ipynb` - Jupyter notebook with all the project code and documentation.
 - `requirements.txt` - List of dependencies to run the project.
 
